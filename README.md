@@ -39,7 +39,7 @@ This is a list of colours that you want to display on the screen. This can be in
 
 ## License
 
-2017 © [Zack Harley][https://github.com/zackharley]
+2017 © [Zack Harley](https://github.com/zackharley)
 > :fork_and_knife: Fork away!
 
 # }
