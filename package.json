@@ -7,7 +7,7 @@
     "clean": "rm -rf dist && mkdir dist",
     "build": "npm run clean && webpack"
   },
-  "author": "",
+  "author": "Zack Harley <zackharley@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "react": "^15.5.4",
