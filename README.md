@@ -1,5 +1,4 @@
-
-# Colours 
+# Colours {
 > *Like colors, but Canadian*
 
 :art: A React component to visualize and easily access a colour palette
@@ -36,4 +35,11 @@ class MyApp extends React.Component {
 
 ### colours
 
-This is a list of colours that you want to display on the screen. This can be in hex, rgb, rgba, hsl, and hsla.
+This is a list of colours that you want to display on the screen. This can be in `hex`, `rgb`, `rgba`, `hsl`, and `hsla`.
+
+## License
+
+2017 © [Zack Harley][https://github.com/zackharley]
+> :fork_and_knife: Fork away!
+
+# }
