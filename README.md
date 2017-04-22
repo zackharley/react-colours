@@ -4,6 +4,8 @@
 
 :art: A React component to visualize and easily access a colour palette
 
+[Demo](https://zackharley.github.io/react-colours/)
+
 ![colour palette](http://i.imgur.com/jL8ZeWG.png)
 
 ## Install
